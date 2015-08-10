@@ -1,6 +1,5 @@
 //
 //  CyclicArray.swift
-//  BlasterMoba2
 //
 //  Created by Shay Levy on 3/14/15.
 //  Copyright (c) 2015 Shay Levy. All rights reserved.
